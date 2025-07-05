@@ -13,7 +13,7 @@
 
 ## 🚀 Proyectos destacados
 
-### 🔐 [login_simulador](https://github.com/ferrodiego/login_simulador)  
+### 🔐 [login_simulador](https://github.com/ferrodiego/login_python)  
 Simulador de sistema de usuarios en Python.  
 Permite registrar, iniciar sesión, cambiar contraseña y eliminar cuenta.  
 Guarda los datos en archivos JSON. Ideal para practicar lógica backend sin frameworks.
@@ -21,11 +21,6 @@ Guarda los datos en archivos JSON. Ideal para practicar lógica backend sin fram
 ### 📁 [gestor_archivos](https://github.com/ferrodiego/gestor_archivos)  
 Aplicación de línea de comandos en Python para gestionar archivos del sistema.  
 Permite crear, listar, renombrar y eliminar archivos y carpetas usando `pathlib`.
-
-### 🗂️ [api_tareas](https://github.com/ferrodiego/api_tareas)  
-API REST construida con Django y Django REST Framework.  
-Incluye autenticación de usuarios y operaciones CRUD sobre tareas.  
-Proyecto en desarrollo para practicar desarrollo backend real.
 
 ---
 
