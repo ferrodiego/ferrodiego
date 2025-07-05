@@ -1,49 +1,76 @@
-
-
 <h2 align="center">
   <img align="center" height="256px" src="https://raw.githubusercontent.com/ferrodiego/ferrodiego/refs/heads/main/WhatsApp%20Image%202025-07-04%20at%2019.15.12.jpeg"> 
-  <br>
-  <br>
+  <br><br>
 </h2>
 
-  ## <b>Sobre Mi</b>
+## 👋 Sobre mí
+
+🎓 Actualmente estoy aprendiendo **Python** y desarrollo web con **Python y Django**.  
+📚 También he realizado cursos de **Git**, **SQL Server Programming**, **HTML** y **CSS**.  
+💡 Me gusta construir proyectos que me ayuden a aplicar lo aprendido en situaciones reales.
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🔐 [login_simulador](https://github.com/ferrodiego/login_simulador)  
+Simulador de sistema de usuarios en Python.  
+Permite registrar, iniciar sesión, cambiar contraseña y eliminar cuenta.  
+Guarda los datos en archivos JSON. Ideal para practicar lógica backend sin frameworks.
+
+### 📁 [gestor_archivos](https://github.com/ferrodiego/gestor_archivos)  
+Aplicación de línea de comandos en Python para gestionar archivos del sistema.  
+Permite crear, listar, renombrar y eliminar archivos y carpetas usando `pathlib`.
+
+### 🗂️ [api_tareas](https://github.com/ferrodiego/api_tareas)  
+API REST construida con Django y Django REST Framework.  
+Incluye autenticación de usuarios y operaciones CRUD sobre tareas.  
+Proyecto en desarrollo para practicar desarrollo backend real.
+
+---
+
+## 🛠️ Herramientas y tecnologías
+
+### 🧠 Lenguajes de programación
+
 <p>
-  <b>Actualmente estoy aprendiendo Python y Desarrollo web con Python y Django.<br>
-Tambien tengo cursos realizados de Git, SQL Server Programming y ademas HTML y CSS.</b>
-</p>
-  
-## Herramientas
-
-### Lenguajes de Programación
-
-<p
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+  <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
 </p>
 
-### Databases & Cloud Hosting
+### 🧰 Frameworks y librerías
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white">
+  <img alt="Django REST Framework" src="https://img.shields.io/badge/DRF-ff1709.svg?logo=django&logoColor=white">
 </p>
 
-### Software and tools
+### ☁️ Bases de datos y hosting
 
 <p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
 </p>
 
-  ## Thank you for visting my profile
-  
-  ![Visitor Count](https://profile-counter.glitch.me/jaiswal4sudep/count.svg)
-  
+### 🧪 Software y herramientas
+
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+</p>
+
+---
+
+## 🙏 Gracias por visitar mi perfil
+
+![Visitor Count](https://profile-counter.glitch.me/jaiswal4sudep/count.svg)
+
 <hr>
-  <p>Made with &hearts; by <a href="https://github.com/jaiswal4sudeep" style="color:white">Diego Ferro</a><p>
-  <p> Last Update: July 05, 2025 </p>
+
+<p align="center">Hecho con ❤️ por <a href="https://github.com/ferrodiego">Diego Ferro</a></p>
+<p align="center">📅 Última actualización: Julio 05, 2025</p>
 
 
   
