@@ -18,9 +18,10 @@ Simulador de sistema de usuarios en Python.
 Permite registrar, iniciar sesión, cambiar contraseña y eliminar cuenta.  
 Guarda los datos en archivos JSON. Ideal para practicar lógica backend sin frameworks.
 
-### 📁 [gestor_archivos](https://github.com/ferrodiego/gestor_archivos)  
-Aplicación de línea de comandos en Python para gestionar archivos del sistema.  
-Permite crear, listar, renombrar y eliminar archivos y carpetas usando `pathlib`.
+### 🗂️ [gestor_usuarios_visitas](https://github.com/ferrodiego/gestion_usuarios_visitas)  
+Sistema básico en Python para gestionar usuarios, inicio de sesión y registrar historial de visitas en CSV.  
+Incluye funciones para registrar usuarios, cambiar contraseña, filtrar y borrar historial de visitas.  
+Ideal para aprender manejo de archivos JSON y CSV en proyectos CLI.
 
 ---
 
@@ -66,7 +67,3 @@ Permite crear, listar, renombrar y eliminar archivos y carpetas usando `pathlib`
 
 <p align="center">Hecho con ❤️ por <a href="https://github.com/ferrodiego">Diego Ferro</a></p>
 <p align="center">📅 Última actualización: Julio 05, 2025</p>
-
-
-  
-  
