@@ -23,10 +23,6 @@ Sistema básico en Python para gestionar usuarios, inicio de sesión y registrar
 Incluye funciones para registrar usuarios, cambiar contraseña, filtrar y borrar historial de visitas.  
 Ideal para aprender manejo de archivos JSON y CSV en proyectos CLI.
 
-## 🖼️ Demostración
-
-![Demo del proyecto](https://github.com/ferrodiego/gestion_usuarios_visitas/blob/main/media/demo.png?raw=true)
-
 ---
 
 ## 🛠️ Herramientas y tecnologías
