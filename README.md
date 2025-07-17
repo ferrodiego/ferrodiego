@@ -61,7 +61,6 @@ Ideal para aprender manejo de archivos JSON y CSV en proyectos CLI.
 
 ## 🙏 Gracias por visitar mi perfil
 
-![Visitor Count](https://profile-counter.glitch.me/jaiswal4sudep/count.svg)
 
 <hr>
 
